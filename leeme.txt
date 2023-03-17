@@ -1,0 +1,14 @@
+Santiago de Chile 2022 - Andres Martin
+para Adafruit Circuit Playground Bluefruit
+
+En esta carpeta hay 3 archivos que en conjunto permiten la escritura de melodias en excel:
+code.py
+tabla.csv
+nombreNotas.csv
+Para usarlo en tu Circuit Playground debes poner los 3 dentro de su almacenamiento.
+
+Puedes abrir el archivo 'tabla.csv' en cualquier programa de hojas de calculo, en él debes escribir las notas de la melodía arriba entre 'Inicio' y 'Fin', y la duración de las notas abajo entre '0' y '0', puedes añadir todas las notas que quieras mientras estén entre 'Inicio' y 'Fin'.
+
+El archivo 'code.py' traduce las notas a frecuencias mediante la tabla 'nombreNotas.csv'
+
+Juega todo lo que quieras con el código y los csv. Disfruten
