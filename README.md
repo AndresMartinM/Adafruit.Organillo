@@ -1,5 +1,5 @@
 # Adafruit.Organillo
-Organillo regulado con Voltage para el AdafruitCircuitPythonB
+Organillo regulado con Voltage para el AdafruitCircuitPlaygroundB
 
 Instrumento para Bicicleta
 
